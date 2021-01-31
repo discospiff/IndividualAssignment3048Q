@@ -2,6 +2,7 @@ package app.plantdiary.individualassignment3048q
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import app.plantdiary.individualassignment3048q.ui.main.MainViewModel
+import app.plantdiary.individualassignment3048q.dto.Country
 import org.junit.Test
 
 import org.junit.Assert.*
@@ -10,6 +11,9 @@ import org.junit.Rule
 import org.junit.rules.TestRule
 
 /**
+ * IMPORTANT!  YOU SHOULD NOT MAKE ANY CHANGES TO THIS FILE AS PART OF THE INDIVIDUAL ASSIGNMENT.
+ * You can make this file compile and run by adding, and making changes to, the files that this unit test tests.
+ *
  * Test the country logic.
  * Validate that the DTO works as expected.
  * Validate the format of the DTO string.
